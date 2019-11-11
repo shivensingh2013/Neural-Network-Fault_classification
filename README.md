@@ -9,3 +9,8 @@ by means of solving a multi-objective optimization problem.In particular, this c
 the number of variables to be measured continuously in the process plant.
 
 ### Methodology :
+The code structure can be broken down into the following components : 
+1. Dimension reduction by using Recursive feature elimination
+2. Neural net (NN) based classification for process monitoring
+3. Multi-objective optimization based feature selection for improved process monitoring:  a genetic algorithm based solution approach
+4. Online monitoring
